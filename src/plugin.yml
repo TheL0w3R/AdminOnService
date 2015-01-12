@@ -1,0 +1,20 @@
+name: AdminOnDuty
+description: Tell's the player when an Admin is on duty!
+main: me.TheL0w3R.AdminOnDuty.Main
+version: 0.0.1
+commands:
+   serviceon:
+      description: Set you on service.
+      usage: /<command>
+   checkstaff:
+      description: pene
+      usage: /<command>
+   addhelper:
+      description: pene2
+      usage: /<command> username
+   remhelper:
+      description: pene3
+      usage: /<command> username
+   serviceoff:
+      description: pene4
+      usage: /<command>
